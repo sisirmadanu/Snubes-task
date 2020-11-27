@@ -1,4 +1,4 @@
-# TestStory: 
+# Test Story: 
 # 1. When user visits home page.
 # 2. When user clicks on Sign In Button from Home page.
 # 3. When User Validates Sign In popup window.
