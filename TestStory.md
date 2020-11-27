@@ -1,4 +1,5 @@
-# Description: Show password in Sign In popup window.
+# Title: Show password in Sign In popup window.
+# Description: When user enters password and clicks on "show" password, then user should be able to see the password.
 
 ## Test Story: 
 ### 1. When user visits home page.
