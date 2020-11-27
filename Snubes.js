@@ -2,10 +2,7 @@ describe('Show Password', function(){
     it('VISIT PAGE', function(){
 cy.visit('https://www.snubes.com/')
     })
-    /*it('SELECT LANGUAGE',function(){
-        cy.contains('EN').click()
-        cy.get('.top_header_language_link').contains('EN')
-    })*/
+    
     it('WHEN USER CLICKS ON SIGNIN',function(){
         cy.contains('Sign In').click()  //When user clicks on Sign In Button from Home page.
         cy.get('h4').contains('Sign In')  //When User Validates Sign In popup window is open.
