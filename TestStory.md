@@ -12,6 +12,7 @@
 ### 9. When user is able to view password.
 ### 10. When user validates the password.
 
+
 ## Expected Result:
 ### 1. User is able to visit home page.
 ### 2. User is able to click on Sign In button.
