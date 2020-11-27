@@ -1,6 +1,6 @@
 describe('Show Password', function(){
     it('VISIT PAGE', function(){
-cy.visit('https://www.snubes.com/')  //Wehn user visits home page
+cy.visit('https://www.snubes.com/')  //When user visits home page
     })
     
     it('WHEN USER CLICKS ON SIGNIN',function(){
